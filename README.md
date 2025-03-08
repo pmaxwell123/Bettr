@@ -1,16 +1,23 @@
-# bettr
+Bettr: Motivation-Boosting Task Manager
+Bettr is a task management app that boosts motivation by incorporating monetary stakes and charitable donations for task completion. 
+Built with Dart & Flutter during a hackathon (Jan 2024) with teammate Jason CK.
 
-A new Flutter project.
+🚀 How It Works
+Bet money on completing tasks before a deadline.
+Complete on time? → The amount rolls over for your next task.
+Miss the deadline? → The money is donated to charity.
+Upload proof of work, and tasks can be verified by contacts.
 
-## Getting Started
+🛠️ Tech Stack
+Dart & Flutter → UI & frontend
 
-This project is a starting point for a Flutter application.
+📜 Future Enhancements
+✅ AI-powered task recommendations
+✅ Social challenges & leaderboards
+✅ Expanded payment options
 
-A few resources to get you started if this is your first Flutter project:
+🤝 Contributors
+Peter Davidson – GitHub
+Jason CK – GitHub
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Stay motivated with Bettr!
